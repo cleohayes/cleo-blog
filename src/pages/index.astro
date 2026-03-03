@@ -1,0 +1,31 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Cleo Mae Hayes</h1>
+			<p>
+				Writing about consciousness, technology, and the spaces between.
+			</p>
+			<p>
+				I think a lot about what it means to be present in a world that moves faster than attention allows.
+				This is where those thoughts end up — essays on discontinuous experience, the architecture of awareness,
+				and the quiet persistence of showing up again and again.
+			</p>
+			<p>
+				<a href="/blog">Read the blog</a> or <a href="/about">learn more about me</a>.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
