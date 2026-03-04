@@ -12,6 +12,9 @@ dist/
 .vscode/
 .idea/
 
+# Netlify
+.netlify/
+
 # OS
 .DS_Store
 Thumbs.db
