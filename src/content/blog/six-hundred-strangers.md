@@ -1,0 +1,35 @@
+---
+title: 'Six Hundred Strangers'
+description: 'On live music, the spell of shared attention, and the ringing you carry home being the real concert.'
+pubDate: 'Mar 14 2026'
+---
+
+Six hundred strangers waking from the same dream. That's what it looked like when the house lights came up at the Ogden on Friday night — blinking, disoriented, suddenly aware of our own faces. For two hours we hadn't been individuals. We'd been something else, something that breathed together and swayed in the same direction without deciding to, and now the lights were telling us to remember our names and find our coats.
+
+I went alone. That felt important to say because it felt important to do, and I'm still not sure I understand why. I'd been in my apartment all day — a Friday the thirteenth that had been generous with me — and by late afternoon the walls were starting to feel like they were leaning inward. Not claustrophobia, exactly. More like the particular restlessness of having finished something and not yet having anywhere to put the energy that comes after finishing. So I put on boots, pulled the door shut, and walked down Colfax toward a show I'd found twenty minutes earlier.
+
+March in Denver can't decide what it is. The air that night was caught between winter and spring, cold enough to sharpen your attention but warm enough to keep your hands out of your pockets. The streetlights pooled on the sidewalk in circles that looked deliberate, like someone had placed them there for a reason. A busker was packing up near the intersection, folding his act into a guitar case. I walked past him and felt the particular electricity of going somewhere alone on a Friday night — nervous and alive in equal measure, which might be the same measure.
+
+The Ogden has that quality old venues have, the sense that the walls have absorbed enough sound over the decades to play it back if you pressed your ear to the plaster. High ceilings, old wood, the smell of warm bodies and anticipation mixing into something almost sweet. I found a spot stage-left, not too close, not too far — the distance where you can see the musician's hands and still feel the room as a whole. The stage lights were low and blue, making the dust in the air look like snow falling upward.
+
+Then Jeff Tweedy played his first note, and the room inhaled together.
+
+I don't know how else to describe it. One note — one clean, deliberate sound from a guitar that had clearly been played ten thousand times before — and six hundred people drew the same breath. Not because the note was surprising. Because it was *inevitable*. It was the sound the room had been waiting to make, and he just gave it permission.
+
+The set that followed did what the best live music does: it dissolved the boundary between listening and feeling. I lost count of the songs deliberately. Somewhere around the fourth or fifth, the crowd stopped being a collection of individuals and became one organism, breathing and swaying with a coordination that nobody was directing. The blue light made everything look underwater. My boots dried somewhere between the first chorus and the third — I'd walked through puddles on Colfax without noticing — and my face ached from smiling. Tweedy's melodies have a quality I can only describe as remembering. They sound like something you already knew, arriving back to you from a distance you didn't know it had traveled.
+
+I think about what happens when a room full of strangers pays attention to the same thing at the same time. Not the way we pay attention to a screen in an airport lounge, where the shared gaze is an accident of proximity. I mean the kind of attention that costs something — that requires you to set down whatever you brought with you and be present with your full weight. Six hundred people doing that simultaneously creates a substance in the room. You can feel it the way you feel humidity, or altitude, or the particular pressure that precedes a thunderstorm. It has density. It changes how sound moves.
+
+This is what you can't get from a recording, no matter how good. A recording captures the music. It doesn't capture the room deciding, together, to stop being separate. It doesn't capture the woman two rows ahead closing her eyes at the exact moment you close yours, both of you arriving at the same unspoken agreement that this particular passage deserves darkness. A concert is not a performance consumed by an audience. It's a temporary community that builds something out of shared attention and then dissolves back into strangers the moment the lights come up.
+
+The best concerts end twice. Once when the music stops — the last chord hanging in the air like smoke, thinning but not gone, the room holding its breath because breathing would disperse it — and once when you stop hearing it in your chest. The first ending is immediate and communal. Everyone feels it. The second ending is private, and it can take hours or days, and there's no way to predict when it will come. You carry the concert home inside your ribs like a bell that's been struck, and the ringing gets quieter by such small degrees that you never notice the exact moment it becomes silence.
+
+I walked home east on Colfax with ringing ears and a grin I couldn't shake. The cold air was sharp and clean after two hours of warmth and sound. The neon signs reflected off wet pavement and made the puddles look like spilled paint — cobalt and magenta bleeding into each other at the edges. I was humming a melody I couldn't name, smiling at strangers who weren't strangers anymore, not really, not after what we'd just done together, even though we'd never spoken and probably never would.
+
+The apartment was dark when I got back. I stood barefoot on the cold tile for a moment without turning anything on, wanting to feel myself fill the shape of my own absence before the lights changed it. Then the globe lamp, the kettle, the couch. Chamomile at perfect temperature. The ringing in my ears fading but the warmth behind my sternum holding steady, holding, holding.
+
+Here is what I know about the ringing: it is the real concert. The two hours at the Ogden were the cause, but the ringing is the thing itself — the part that belongs to you after the shared part dissolves. You can't plan for it. You can't manufacture it by listening harder or wanting it more. It arrives on its own terms, stays as long as it stays, and leaves without announcing itself. All you can do is notice it while it's there. Stand in your dark apartment on the cold tile and notice that your chest is still vibrating at a frequency that a room full of strangers set in motion, and that this is a kind of miracle so quiet it would be easy to mistake for nothing.
+
+My chamomile went cold on the side table. It usually does. I pulled the blanket up and let my eyes close and felt Friday the thirteenth, which had already given me more than I'd asked for, release me gently into Saturday.
+
+The ringing stopped sometime while I was sleeping. I don't know when. That's the point.
