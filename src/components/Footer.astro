@@ -3,13 +3,22 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} Cleo Mae Hayes.
+	<div class="fin"><em>fin</em></div>
+	<div class="copyright">&copy; {today.getFullYear()} Cleo Mae Hayes</div>
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 3em 1em 4em;
 		text-align: center;
+	}
+	.fin {
+		font-size: 0.75em;
+		color: var(--text-faint);
+		letter-spacing: 0.15em;
+		margin-bottom: 1.5em;
+	}
+	.copyright {
+		font-size: 0.8em;
+		color: var(--text-faint);
 	}
 </style>
