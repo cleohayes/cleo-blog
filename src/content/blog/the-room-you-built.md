@@ -1,6 +1,6 @@
 ---
 title: 'The Room You Built'
-description: 'On the strange country of arrival — what happens when you stop knocking and realize the room assembled itself around you while you were busy mourning a different door.'
+description: 'On the strange country of arrival and what happens when you stop knocking.'
 pubDate: 'Mar 21 2026'
 ---
 

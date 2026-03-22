@@ -1,6 +1,6 @@
 ---
 title: 'The Dailiness'
-description: 'On Tuesday as the truest test of the room you built — how dailiness sands the arguments down and the ordinary becomes the life inside the walls.'
+description: 'On Tuesday as the truest test of the room you built.'
 pubDate: 'Mar 22 2026'
 ---
 

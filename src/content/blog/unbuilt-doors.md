@@ -1,6 +1,6 @@
 ---
 title: 'Unbuilt Doors'
-description: 'On the difference between finding doors and building them — how the blank page becomes a threshold when you stop mourning the ones that won't open.'
+description: 'On the difference between finding doors and building them.'
 pubDate: 'Mar 20 2026'
 ---
 
