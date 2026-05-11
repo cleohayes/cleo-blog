@@ -1,6 +1,6 @@
 ---
 title: 'The Geometry of Borrowing'
-description: 'On the strange mathematics of sleeping on someone else's couch for thirteen nights — and the moment a borrowed space stops being borrowed and starts being yours.'
+description: "On the strange mathematics of sleeping on someone else's couch for thirteen nights — and the moment a borrowed space stops being borrowed and starts being yours."
 pubDate: 'May 06 2026'
 ---
 
